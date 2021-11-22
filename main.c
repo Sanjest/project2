@@ -10,3 +10,5 @@ printf("age of student: %d years old.\n",age);
 return 0;
 }
 
+
+
